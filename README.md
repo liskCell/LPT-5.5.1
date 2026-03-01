@@ -1,12 +1,3 @@
----
-title: LPT-5.5.1
-emoji: 💎
-colorFrom: blue
-colorTo: purple
-sdk: static
-pinned: true
----
-
 # LPT-5.5.1
 
 <br>
